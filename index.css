@@ -1,0 +1,14 @@
+h1, #p{
+    text-align: center;
+}
+
+input{
+    margin-left: 40%;
+    border-radius: 5px;
+    border-color: red;
+}
+
+button{
+    border-radius: 5px;
+    border-color: red;
+}
