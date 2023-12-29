@@ -1,0 +1,11 @@
+@media only screen and (max-width: 430px){
+    main{
+        margin-top: 50%;
+        width: 300px;
+    }
+
+    .legendas{
+        width: 300px;
+    }
+
+}
