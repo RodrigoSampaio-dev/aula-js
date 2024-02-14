@@ -70,6 +70,7 @@ button{
 
   border-radius: 5px;
   margin: 10px auto;
+  padding-top: 1px;
 }
 
 .azul{
@@ -78,7 +79,8 @@ button{
   background-color: blue;
 
   border-radius: 5px;
-  margin: auto;
+  margin: 10px auto;
+  padding-top: 1px;
 }
 
 .verde{
@@ -88,6 +90,7 @@ button{
 
   border-radius: 5px;
   margin: 10px auto;
+  padding-top: 1px;
 }
 
 #paragrafo{
@@ -98,7 +101,3 @@ button{
 p{
   text-align: center;
 }
-
-
-
-

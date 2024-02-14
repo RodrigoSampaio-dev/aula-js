@@ -16,6 +16,6 @@ function cor(){
         break;
         
         default:
-            document.getElementById("erro").innerHTML = "Cor nao encontrada";
+            document.getElementById("erro").innerHTML = "Cor não encontrada";
     }
 }
